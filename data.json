@@ -1,0 +1,18 @@
+{
+    "name" : "FuckYou",
+    "description" : "彻底恶心透一个人,他发消息就撤回",
+    "class" : [
+        "boot"
+    ],
+    "dirname" : "FuckYou",
+    "author" : "Inkedus",
+    "url" : "http://node.tax",
+    "version" : 1.2,
+    "post_type" : {
+        "message" : {
+            "group" : [
+                "FuckYou"
+            ]
+        }
+    }
+}
